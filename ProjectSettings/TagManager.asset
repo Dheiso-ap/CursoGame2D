@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Shootable
+  - caixa
+  - arma
+  - coletavel
+  - porta
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Lighting
+  - Ground
+  - Postprocessing
+  - coletavel
+  - inimigos
+  - grouded
+  - interacao
+  - decoracao
+  - morto
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: backGroude
+    uniqueID: 2970258303
+    locked: 0
+  - name: Fire
+    uniqueID: 3804908061
+    locked: 0
+  - name: plataformas
+    uniqueID: 1967575129
+    locked: 0
+  - name: objects
+    uniqueID: 3344220603
+    locked: 0
+  - name: plataformaAmbiente
+    uniqueID: 527681991
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: grama
+    uniqueID: 3432559465
+    locked: 0
+  - name: HUD
+    uniqueID: 2157411573
+    locked: 0
